@@ -1,9 +1,9 @@
-# Raspberry Pi 3 Model B / B+
+# Raspberry Pi 3 Model B / B+ with wireguard
 
 [![CircleCI](https://circleci.com/gh/nerves-project/nerves_system_rpi3.svg?style=svg)](https://circleci.com/gh/nerves-project/nerves_system_rpi3)
 [![Hex version](https://img.shields.io/hexpm/v/nerves_system_rpi3.svg "Hex version")](https://hex.pm/packages/nerves_system_rpi3)
 
-This is the base Nerves System configuration for the Raspberry Pi 3 Model B.
+This is a custom Nerves System configuration for the Raspberry Pi 3 Model B with wireguard tools and iptables.
 
 ![Fritzing Raspberry Pi 3 image](assets/images/raspberry-pi-3-model-b.png)
 <br><sup>[Image credit](#fritzing)</sup>
